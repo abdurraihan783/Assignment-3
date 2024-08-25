@@ -1,0 +1,23 @@
+h3{
+	background: skyblue;
+	font-size: 40px;
+	font-style: italic;
+}
+h4{
+	text-decoration-color: red;
+	border: 5px solid black;
+	width: 65px;
+	padding: 20px;
+	background: green;
+	font-size: 15px;
+	font-style: italic; 
+}
+h5{
+	border: 2 solid blue;
+	width: 50px;
+	background: skyblue;
+	font-size: 15px;
+	font-style: italic;
+	margin: 15px;
+
+}
